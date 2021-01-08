@@ -8,6 +8,8 @@ sites:
     url: https://developer.cisco.com/meraki/api-v1/
   - name: Meraki API Org Show
     url: https://api.meraki.com/api/v1/organizations/43483
+    headers:
+    - "X-Cisco-Meraki-API-Key: $MKI_API_KEY"
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
