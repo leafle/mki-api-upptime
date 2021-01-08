@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/api.meraki.com",
     "slug": "meraki-api-org-show",
     "status": "up",
-    "uptime": "1.13%",
-    "uptimeDay": "1.13%",
-    "uptimeWeek": "1.13%",
-    "uptimeMonth": "1.13%",
-    "uptimeYear": "1.13%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 763,
     "timeDay": 763,
     "timeWeek": 763,
     "timeMonth": 763,
     "timeYear": 763,
-    "dailyMinutesDown": {
-      "2021-01-08": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
