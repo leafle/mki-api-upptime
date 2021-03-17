@@ -22,7 +22,7 @@
     "url": "https://api.meraki.com/api/v1/organizations/43483",
     "icon": "https://favicons.githubusercontent.com/api.meraki.com",
     "slug": "meraki-api-org-show",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "98.81%",
     "uptimeWeek": "99.83%",
