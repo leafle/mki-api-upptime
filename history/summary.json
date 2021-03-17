@@ -22,19 +22,19 @@
     "url": "https://api.meraki.com/api/v1/organizations/43483",
     "icon": "https://favicons.githubusercontent.com/api.meraki.com",
     "slug": "meraki-api-org-show",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1009,
-    "timeDay": 1015,
-    "timeWeek": 1409,
-    "timeMonth": 1152,
-    "timeYear": 1009,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1032,
+    "timeDay": 1816,
+    "timeWeek": 1560,
+    "timeMonth": 1203,
+    "timeYear": 1032,
     "dailyMinutesDown": {
-      "2021-03-17": 0
+      "2021-03-17": 6
     }
   }
 ]
