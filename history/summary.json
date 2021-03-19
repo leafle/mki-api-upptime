@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 881,
-    "timeWeek": 648,
-    "timeMonth": 398,
-    "timeYear": 332,
+    "time": 338,
+    "timeDay": 787,
+    "timeWeek": 706,
+    "timeMonth": 416,
+    "timeYear": 338,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "meraki-api-org-show",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "95.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.94%",
-    "time": 1379,
-    "timeDay": 7857,
-    "timeWeek": 4060,
-    "timeMonth": 2029,
-    "timeYear": 1379,
+    "time": 1398,
+    "timeDay": 2819,
+    "timeWeek": 4246,
+    "timeMonth": 2105,
+    "timeYear": 1398,
     "dailyMinutesDown": {
       "2021-03-17": 59
     }
