@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 338,
-    "timeDay": 207,
-    "timeWeek": 238,
-    "timeMonth": 325,
-    "timeYear": 338,
+    "time": 337,
+    "timeDay": 242,
+    "timeWeek": 239,
+    "timeMonth": 323,
+    "timeYear": 337,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,19 @@
     "url": "https://api.meraki.com/api/v1/organizations/43483",
     "icon": "https://favicons.githubusercontent.com/api.meraki.com",
     "slug": "meraki-api-org-show",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1471,
-    "timeDay": 684,
+    "timeDay": 0,
     "timeWeek": 845,
     "timeMonth": 1453,
     "timeYear": 1471,
     "dailyMinutesDown": {
+      "2021-06-16": 0,
       "2021-03-17": 59
     }
   }
