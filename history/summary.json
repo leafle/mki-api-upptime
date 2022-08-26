@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 342,
-    "timeWeek": 377,
-    "timeMonth": 309,
-    "timeYear": 305,
+    "timeDay": 186,
+    "timeWeek": 381,
+    "timeMonth": 302,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/api.meraki.com",
     "slug": "meraki-api-org-show",
     "status": "up",
-    "uptime": "80.31%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "96.02%",
+    "uptime": "80.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.03%",
     "uptimeMonth": "98.78%",
-    "uptimeYear": "72.22%",
-    "time": 1199,
-    "timeDay": 1155,
-    "timeWeek": 1070,
-    "timeMonth": 1045,
-    "timeYear": 1016,
+    "uptimeYear": "72.49%",
+    "time": 1200,
+    "timeDay": 1648,
+    "timeWeek": 1182,
+    "timeMonth": 1060,
+    "timeYear": 1018,
     "dailyMinutesDown": {
       "2022-08-24": 45,
       "2022-08-23": 38,
@@ -147,8 +147,7 @@
       "2021-08-30": 1440,
       "2021-08-29": 1440,
       "2021-08-28": 1440,
-      "2021-08-27": 1440,
-      "2021-08-26": 1440
+      "2021-08-27": 1440
     }
   }
 ]
