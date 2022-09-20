@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
-    "timeDay": 194,
-    "timeWeek": 318,
+    "timeDay": 308,
+    "timeWeek": 327,
     "timeMonth": 357,
     "timeYear": 308,
     "dailyMinutesDown": {}
@@ -23,15 +23,15 @@
     "icon": "https://favicons.githubusercontent.com/api.meraki.com",
     "slug": "meraki-api-org-show",
     "status": "up",
-    "uptime": "81.08%",
+    "uptime": "81.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "79.03%",
-    "time": 1126,
-    "timeDay": 685,
-    "timeWeek": 1249,
-    "timeMonth": 1053,
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "79.30%",
+    "time": 1127,
+    "timeDay": 943,
+    "timeWeek": 1302,
+    "timeMonth": 1048,
     "timeYear": 1013,
     "dailyMinutesDown": {
       "2022-09-13": 135,
@@ -125,8 +125,7 @@
       "2021-09-24": 1440,
       "2021-09-23": 1440,
       "2021-09-22": 1440,
-      "2021-09-21": 1440,
-      "2021-09-20": 1440
+      "2021-09-21": 1440
     }
   }
 ]
