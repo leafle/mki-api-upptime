@@ -2,7 +2,7 @@
   {
     "name": "Meraki API Docs",
     "url": "https://developer.cisco.com/meraki/api-v1/",
-    "icon": "https://favicons.githubusercontent.com/developer.cisco.com",
+    "icon": "https://icons.duckduckgo.com/ip3/developer.cisco.com.ico",
     "slug": "meraki-api-docs",
     "status": "up",
     "uptime": "100.00%",
@@ -10,29 +10,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 1229,
-    "timeWeek": 518,
-    "timeMonth": 365,
-    "timeYear": 312,
+    "time": 324,
+    "timeDay": 912,
+    "timeWeek": 589,
+    "timeMonth": 389,
+    "timeYear": 314,
     "dailyMinutesDown": {}
   },
   {
     "name": "Meraki API Org Show",
     "url": "https://api.meraki.com/api/v1/organizations/43483",
-    "icon": "https://favicons.githubusercontent.com/api.meraki.com",
+    "icon": "https://icons.duckduckgo.com/ip3/api.meraki.com.ico",
     "slug": "meraki-api-org-show",
     "status": "up",
-    "uptime": "81.44%",
+    "uptime": "81.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.49%",
-    "uptimeYear": "82.32%",
+    "uptimeYear": "82.59%",
     "time": 1172,
-    "timeDay": 1077,
-    "timeWeek": 1639,
+    "timeDay": 667,
+    "timeWeek": 1599,
     "timeMonth": 1106,
-    "timeYear": 1024,
+    "timeYear": 1023,
     "dailyMinutesDown": {
       "2022-09-13": 135,
       "2022-09-10": 70,
@@ -113,8 +113,7 @@
       "2021-10-06": 1440,
       "2021-10-05": 1440,
       "2021-10-04": 1440,
-      "2021-10-03": 1440,
-      "2021-10-02": 1440
+      "2021-10-03": 1440
     }
   }
 ]
