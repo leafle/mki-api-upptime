@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
-    "timeDay": 175,
-    "timeWeek": 283,
-    "timeMonth": 270,
+    "timeDay": 179,
+    "timeWeek": 250,
+    "timeMonth": 267,
     "timeYear": 315,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.meraki.com.ico",
     "slug": "meraki-api-org-show",
     "status": "up",
-    "uptime": "82.90%",
+    "uptime": "82.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "97.10%",
+    "uptimeYear": "97.37%",
     "time": 1118,
-    "timeDay": 930,
-    "timeWeek": 883,
-    "timeMonth": 1134,
-    "timeYear": 1024,
+    "timeDay": 696,
+    "timeWeek": 754,
+    "timeMonth": 1129,
+    "timeYear": 1023,
     "dailyMinutesDown": {
       "2022-11-22": 23,
       "2022-11-02": 25,
@@ -61,8 +61,7 @@
       "2021-11-29": 1440,
       "2021-11-28": 1440,
       "2021-11-27": 1440,
-      "2021-11-26": 1440,
-      "2021-11-25": 1440
+      "2021-11-26": 1440
     }
   }
 ]
