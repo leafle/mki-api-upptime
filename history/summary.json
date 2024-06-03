@@ -25,7 +25,7 @@
     "url": "https://api.meraki.com/api/v1/organizations/43483",
     "icon": "https://icons.duckduckgo.com/ip3/api.meraki.com.ico",
     "slug": "meraki-api-org-show",
-    "status": "up",
+    "status": "down",
     "uptime": "90.56%",
     "uptimeDay": "94.29%",
     "uptimeWeek": "99.18%",
