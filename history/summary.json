@@ -10,14 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 316,
-    "timeDay": 136,
-    "timeWeek": 213,
-    "timeMonth": 274,
-    "timeYear": 307,
+    "time": 317,
+    "timeDay": 558,
+    "timeWeek": 262,
+    "timeMonth": 288,
+    "timeYear": 308,
     "dailyMinutesDown": {
-      "2023-09-02": 116,
-      "2023-07-14": 52
+      "2023-09-02": 116
     }
   },
   {
@@ -26,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.meraki.com.ico",
     "slug": "meraki-api-org-show",
     "status": "up",
-    "uptime": "90.83%",
+    "uptime": "90.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 787,
-    "timeDay": 413,
-    "timeWeek": 546,
-    "timeMonth": 586,
-    "timeYear": 761,
+    "time": 786,
+    "timeDay": 313,
+    "timeWeek": 526,
+    "timeMonth": 578,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2024-06-04": 120,
       "2024-06-03": 87,
