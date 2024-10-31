@@ -4,18 +4,20 @@
     "url": "https://developer.cisco.com/meraki/api-v1/",
     "icon": "https://icons.duckduckgo.com/ip3/developer.cisco.com.ico",
     "slug": "meraki-api-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 212,
-    "timeWeek": 245,
-    "timeMonth": 252,
-    "timeYear": 281,
-    "dailyMinutesDown": {}
+    "time": 298,
+    "timeDay": 725,
+    "timeWeek": 369,
+    "timeMonth": 282,
+    "timeYear": 284,
+    "dailyMinutesDown": {
+      "2024-10-31": 0
+    }
   },
   {
     "name": "Meraki API Org Show",
@@ -23,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.meraki.com.ico",
     "slug": "meraki-api-org-show",
     "status": "up",
-    "uptime": "91.55%",
+    "uptime": "91.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
