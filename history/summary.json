@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 1214,
+    "timeDay": 1287,
     "timeWeek": 770,
     "timeMonth": 490,
     "timeYear": 330,
@@ -22,24 +22,25 @@
     "url": "https://api.meraki.com/api/v1/organizations/43483",
     "icon": "https://icons.duckduckgo.com/ip3/api.meraki.com.ico",
     "slug": "meraki-api-org-show",
-    "status": "up",
+    "status": "down",
     "uptime": "94.40%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 494,
-    "timeDay": 392,
-    "timeWeek": 409,
-    "timeMonth": 384,
-    "timeYear": 468,
+    "time": 493,
+    "timeDay": 254,
+    "timeWeek": 374,
+    "timeMonth": 375,
+    "timeYear": 467,
     "dailyMinutesDown": {
       "2025-11-18": 23,
       "2026-01-08": 25,
       "2026-04-23": 30,
       "2026-05-08": 34,
       "2026-06-24": 72,
-      "2026-06-23": 42
+      "2026-06-23": 42,
+      "2026-10-14": 0
     }
   }
 ]
